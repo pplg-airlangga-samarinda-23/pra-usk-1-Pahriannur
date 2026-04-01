@@ -1,0 +1,280 @@
+DOKUMEN NEGARA 
+
+Paket  
+4 
+
+UJI KOMPETENSI KEAHLIAN 
+TAHUN PELAJARAN 2023/2024 
+
+SOAL PRAKTIK KEJURUAN 
+
+Satuan Pendidikan 
+Kompetensi Keahlian  
+Kode 
+Alokasi Waktu 
+Bentuk Soal 
+Judul Tugas 
+
+: Sekolah Menengah Kejuruan 
+: Rekayasa Perangkat Lunak 
+: KM3063 
+: 8 jam 
+: Penugasan Perorangan 
+: Aplikasi Kasir 
+
+I.  
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
+PETUNJUK UMUM 
+
+Periksalah dengan teliti dokumen soal ujian praktik ! 
+Periksalah peralatan dan bahan yang dibutuhkan ! 
+Gunakan peralatan utama dan peralatan keselamatan kerja yang telah disediakan! 
+Gunakan peralatan sesuai dengan SOP (Standard Operating Procedure) ! 
+Bekerjalah dengan memperhatikan petunjuk Pembimbing/Penguji ! 
+
+II.  DAFTAR PERALATAN 
+
+No. 
+
+1 
+1. 
+
+Nama 
+Alat  dan Bahan 
+2 
+Komputer (PC/Laptop) yang 
+difungsikan sebagai server 
+
+2. 
+
+Komputer (PC/Laptop) yang 
+difungsikan sebagai client 
+
+3. 
+4. 
+
+Smart Phone 
+Koneksi Internet  
+
+1. 
+
+Spesifikasi Minimal 
+
+Jumlah 
+
+Keterangan 
+
+3 
+
+RAM : 2 GB (4GB 
+
+Prosesor : Dual Core 
+
+Keyboard 
+Mouse 
+Monitor 
+Prosesor : Dual Core 
+
+- 
+2,4 GHz (2,93GHz untuk yang 
+memilih platform mobile) 
+- 
+untuk yang memilih platform 
+mobile) 
+- 
+- 
+- 
+- 
+2,4 GHz (2,93GHz untuk yang 
+memilih platform mobile) 
+- 
+untuk yang memilih platform 
+mobile) 
+- 
+- 
+- 
+Android /IOS 
+Minimal 1 Mbps 
+
+Keyboard 
+Mouse 
+Monitor 
+
+RAM : 2 GB (4GB 
+
+4 
+1 Unit  
+
+5 
+
+Baik  
+
+1 unit 
+
+Baik  
+
+1 unit 
+
+Baik  
+Baik  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+DOKUMEN NEGARA 
+
+III. 
+
+SOAL/TUGAS 
+
+Paket  
+4 
+
+:   Membuat Aplikasi Kasir 
+: 
+
+Buatlah  daftar  kebutuhan  teknis  dan  spesifikasi  perangkat  yang  dibutuhkan  pada 
+
+Siapkan peralatan dan bahan yang diperlukan sesuai dengan daftar peralatan ! 
+Installah  text  editor  dan  software  pendukung  lainnya  yang  digunakan  untuk 
+
+Interpretasikan spesifikasi program yang diberikan 
+Aplikasi berbasis sistem client-server 
+Aplikasi dapat dibuat berbasis desktop, web atau perangkat bergerak 
+Aplikasi  menggunakan  pembagian  privilege  dengan  tingkatan  (administrator  dan 
+
+Judul Tugas 
+Langkah Kerja 
+1. 
+lembar yang disediakan ! 
+2. 
+3. 
+memprogram aplikasi kasir ! 
+4. 
+1. 
+2. 
+3. 
+petugas) 
+5. 
+1. 
+
+Buatlah Desain User Interface   
+Fitur minimal dan pembagian privilege dalam aplikasi 
+
+Fitur 
+
+Login  
+
+Logout 
+Registrasi 
+Pendataan Barang 
+Pembelian 
+Stok Barang 
+
+administrator 
+X 
+
+petugas 
+X 
+
+X 
+X 
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+Desain dibuat dengan memperhatikan kaidah UI/UX 
+Form pelaporan dibuat sekomunikatif mungkin  
+Terapkan pemrograman berbasis objek (object oriented programming) 
+Buatlah  database  yang  digunakan  untuk  menambah,  mengedit,  menghapus,  dan 
+
+2. 
+3. 
+4. 
+6. 
+melihat data penjualan barang ! 
+7. 
+8. 
+
+Running dan testing hasil program ! 
+Buatlah dikumentasi kode program dan upload portofolio pada github ! 
+
+P1-23/24                                                Hak Cipta pada Kemendikbudristek 
+
+SPK-2/3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOKUMEN NEGARA 
+
+IV.  GAMBAR KERJA 
+
+Paket  
+4 
+
+“SELAMAT & SUKSES” 
+
+P1-23/24                                                Hak Cipta pada Kemendikbudristek 
+
+SPK-3/3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
